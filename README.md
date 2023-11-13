@@ -1,3 +1,2 @@
 # README
-tutututututututuu
-jgjgjgjgjgjgjgjgjgjgjgjgjg
+哈囉，這是我第一次在GitHub上使用自介，我是生活在比較鄉下的宜蘭小孩，目前就讀羅東高工，我現在已經是高三了，有好多的壓力喔，目前正在學習HTML跟Javascript
